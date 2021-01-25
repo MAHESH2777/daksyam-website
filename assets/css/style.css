@@ -300,6 +300,12 @@
 	box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
     padding: 3px;
 }
+h4.h4bompdone {
+    padding-bottom: 32px;
+}
+.h4bompdtwo{
+	padding-bottom: 2px;
+}
 
 .service-block-one .inner-box .icon-box{
 	position: relative;
