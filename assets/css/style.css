@@ -296,6 +296,10 @@
 .service-block-one .inner-box h4{
 	margin-bottom: 30px;
 }
+.proimg{
+	box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    padding: 3px;
+}
 
 .service-block-one .inner-box .icon-box{
 	position: relative;
