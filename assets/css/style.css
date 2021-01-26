@@ -64,6 +64,9 @@
 
 
 /** banner-section **/
+.inner-box p{
+	text-align: justify;
+}
 
 .banner-section{
 	position: relative;
@@ -945,7 +948,7 @@ h4.h4bompdone {
 	position:relative;
 	display:block;
 	width:100%;
-	margin-bottom: 53px;
+	margin-bottom: 27px;
 }
 
 #content_block_02 .content-box .inner-box .progress-box:last-child{
@@ -1031,7 +1034,7 @@ h4.h4bompdone {
 	position: relative;
 	font-size: 18px;
 	font-weight: 700;
-	margin-bottom: 18px;
+	margin-bottom: 10px;
 }
 
 #content_block_02 .content-box .inner-box .progress-box .icon-box{
@@ -12116,3 +12119,15 @@ h3 a{
 .team-page-section .team-block-one{
 	margin-bottom: 50px;
 }
+/* media querys start here */
+@media only screen and (max-width: 1400px) and (min-width: 1350px) {
+	.h4bompdtwo {
+		padding-bottom: 32px;
+	}
+	h4.h4bompdone {
+		padding-bottom: 29px;
+	}
+	h4.h4bompdthree {
+		padding-bottom: 0px;
+	}
+  }
