@@ -1,4 +1,212 @@
 /*  Responsive Css */
+@media only screen and (max-width: 400px) and (min-width: 350px) {
+
+  img.mainlogo {
+      width: 130px;
+  }
+  h4.dsix.h4bompdthree {
+    padding-bottom: 30px;
+}
+h4.dtwo {
+  padding-bottom: 30px;
+}
+h4.dthree {
+  padding-bottom: 30px;
+}
+h4.h4bompd {
+  padding-bottom: 30px;
+}
+#content_block_02 .content-box .inner-box {
+  position: relative;
+  padding-left: 0px;
+  padding-right: 35px;
+}
+  }
+  @media only screen and (max-width: 769px) and (min-width: 401px) {
+    img.mainlogo {
+      width: 130px;
+  }
+  h4.dsix.h4bompdthree {
+    padding-bottom: 30px;
+}
+h4.dtwo {
+  padding-bottom: 30px;
+}
+h4.dthree {
+  padding-bottom: 30px;
+}
+h4.h4bompd {
+  padding-bottom: 30px;
+}
+#content_block_02 .content-box .inner-box {
+  position: relative;
+  padding-left: 0px;
+  padding-right: 35px;
+}
+  }
+  @media only screen and (max-width: 1025px) and (min-width: 800px) {
+    .dtwo {
+      padding-bottom: 84px;
+  }
+  .dnine{
+    padding-bottom: 87px !important;
+  }
+    
+    .done {
+      padding-bottom: 42px;
+    }
+    .h4bompdtwo {
+      padding-bottom: 32px;
+    }
+    h4.h4bompdone {
+      padding-bottom: 64px;
+  }
+    h4.h4bompdthree {
+      padding-bottom: 10px;
+    }
+    .h4bompd {
+      padding-bottom: 100px;
+  }
+  .dten{
+    padding-bottom: 72px !important;
+  }
+  .dele{
+    padding-bottom: 73px !important;
+  }
+  .dsix{
+    padding-bottom: 80px !important; 
+  }
+  .dthree{
+    padding-bottom: 60px !important;
+  }
+  .slider-image-1 {
+    display: none;
+  }
+  
+  }
+  @media only screen and (max-width: 1400px) and (min-width: 1350px) {
+    .dtwo {
+      padding-bottom: 40px;
+    }
+    
+    
+    .done {
+      padding-bottom: 42px;
+    }
+    .h4bompdtwo {
+      padding-bottom: 32px;
+    }
+    h4.h4bompdone {
+      padding-bottom: 39px;
+    }
+    h4.h4bompdthree,.dthree {
+      padding-bottom: 10px;
+    }
+    .h4bompd {
+      padding-bottom: 70px;
+    }
+  
+    }
+  
+    @media only screen and (max-width: 1549px) and (min-width: 1401px) {
+    .done {
+      padding-bottom: 71px;
+    }
+    .dsix {
+      padding-bottom: 41px !important;
+    }
+    .dtwo{
+      padding-bottom: 34px;
+    }
+    
+    .h4bompdtwo {
+      padding-bottom: 32px;
+    }
+    h4.h4bompdone {
+      padding-bottom: 39px;
+    }
+    h4.h4bompdthree,.dthree {
+      padding-bottom: 10px;
+    }
+    .h4bompd {
+      padding-bottom: 70px;
+    }
+  
+    }
+    @media only screen and (max-width: 1601px) and (min-width: 1550px) {
+    .dtwo {
+      margin-bottom: 63px;
+    }
+    .h4bompdtwo {
+      padding-bottom: 32px;
+    }
+    h4.h4bompdone {
+      padding-bottom: 24px;
+    }
+    h4.h4bompdthree {
+      /* padding-bottom: 0px; */
+      padding-bottom: 29px;
+    }
+    .dfour {
+      padding-bottom: 68px;
+    }
+    .dfive {
+      padding-bottom: 6px;
+    }
+    .done{
+      padding-bottom: 58px;
+    
+    }
+    h4.h4bompd {
+      padding-bottom: 55px;
+    }
+    }
+    @media only screen and (min-width:1800px) and (max-width: 1921px) {
+    .dtwo {
+      margin-bottom: 63px;
+    }
+    .h4bompdtwo {
+      padding-bottom: 32px;
+    }
+    h4.h4bompdone {
+      padding-bottom: 54px;
+    }
+    h4.h4bompdthree {
+      /* padding-bottom: 0px; */
+      padding-bottom: 54px;
+    }
+    h4.dthree {
+      padding-bottom: 34px;
+    }
+    .dfour {
+      padding-bottom: 68px;
+    }
+    .dfive {
+      padding-bottom: 6px;
+    }
+    .dseven {
+      padding-bottom: 22px !important;
+    }
+    .deight {
+      padding-bottom: 22px !important;
+    }
+    h4.done {
+      padding-bottom: 55px;
+    }
+    h4.h4bompd {
+      padding-bottom: 55px;
+    }
+    }
+
+
+
+
+
+
+
+
+
+
 
 
 @media only screen and (max-width: 1699px){
@@ -358,7 +566,7 @@
   }
 
   .banner-section{
-    padding: 300px 0px 100px 0px;
+    padding: 251px 0px 0px 0px;
   }
 
   .service-block-one .inner-box{
@@ -903,16 +1111,16 @@
   }
 
   .main-header.style-one.home-1 .header-top .support{
-    color: #666;
+    color: rgb(255, 255, 255);
   }
 
   .main-header.style-one.home-1 .header-top .support a{
-    color: #666;
+    color: rgb(250, 249, 249);
   }
 
   .main-header.style-one.home-1 .header-top .social-links li a,
   .main-header.style-one.home-1 .search-box-outer .search-toggler{
-    color: #666;
+    color: rgb(255, 255, 255);
   }
 
   .banner-section .pattern-layer .pattern-2,
@@ -921,7 +1129,7 @@
   }
 
   .main-header.style-one.home-1 .menu-area .mobile-nav-toggler .icon-bar{
-    background: #1d165c;
+    background: white;
   }
 
   .main-header.style-one .menu-area .mobile-nav-toggler .icon-bar{

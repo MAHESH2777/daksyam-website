@@ -64,6 +64,7 @@
 
 
 /** banner-section **/
+
 .inner-box p{
 	text-align: justify;
 }
@@ -296,9 +297,7 @@
 	top: 0px;
 }
 
-.service-block-one .inner-box h4{
-	margin-bottom: 30px;
-}
+
 .proimg{
 	box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
     padding: 3px;
@@ -1517,7 +1516,8 @@ h4.h4bompdone {
 	border-right: 1px solid rgba(255, 255, 255, 0.3);
 	display: flex;
 	text-align: center;
-	vertical-align: center;
+	vertical-align: center;  
+	  margin: 0px 30px;
 	align-items: center;
 	justify-content: center;
 }
@@ -12120,14 +12120,16 @@ h3 a{
 	margin-bottom: 50px;
 }
 /* media querys start here */
-@media only screen and (max-width: 1400px) and (min-width: 1350px) {
-	.h4bompdtwo {
-		padding-bottom: 32px;
-	}
-	h4.h4bompdone {
-		padding-bottom: 29px;
-	}
-	h4.h4bompdthree {
-		padding-bottom: 0px;
-	}
-  }
+
+
+
+
+
+
+
+
+
+
+
+
+
