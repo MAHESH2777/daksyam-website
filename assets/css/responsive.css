@@ -108,7 +108,7 @@ h4.h4bompd {
   
     }
   
-    @media only screen and (max-width: 1549px) and (min-width: 1401px) {
+    @media only screen and (max-width: 1500px) and (min-width: 1401px) {
     .done {
       padding-bottom: 71px;
     }
@@ -133,6 +133,33 @@ h4.h4bompd {
     }
   
     }
+    @media only screen and (max-width: 1549px) and (min-width: 1501px) {
+      .done {
+        padding-bottom: 71px;
+      }
+      .dsix {
+        padding-bottom: 41px !important;
+      }
+      .dtwo{
+        padding-bottom: 34px;
+      }
+      .deight{
+        padding-bottom: 39px !important;
+      }
+      .h4bompdtwo {
+        padding-bottom: 32px;
+      }
+      h4.h4bompdone {
+        padding-bottom: 39px;
+      }
+      h4.h4bompdthree,.dthree {
+        padding-bottom: 10px;
+      }
+      .h4bompd {
+        padding-bottom: 70px;
+      }
+    
+      }
     @media only screen and (max-width: 1601px) and (min-width: 1550px) {
     .dtwo {
       margin-bottom: 63px;
