@@ -21,6 +21,13 @@ h4.h4bompd {
   padding-left: 0px;
   padding-right: 35px;
 }
+.sma{
+  background-color: #4f4890;
+}
+.sma a{
+  font-size: 13px !important;
+
+}
   }
   @media only screen and (max-width: 769px) and (min-width: 401px) {
     img.mainlogo {

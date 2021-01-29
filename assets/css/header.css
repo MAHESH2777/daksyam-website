@@ -250,12 +250,13 @@
 
 .main-menu .navigation > li > ul > li > ul{
   position:absolute;
-  right:100%;
+  left:100%;
   top:-2px;
   width:230px;
   z-index:100;
   display:none;
   padding: 10px 0px;
+  margin: 0px 3px;
   background-color: #fff;
   -moz-transform: translateY(30px);
   -webkit-transform: translateY(30px);
